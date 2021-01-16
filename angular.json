@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "tarea2Adonis"
+  "defaultProject": "tarea2Adonis",
+  "cli": {
+    "analytics": false
+  }
 }
